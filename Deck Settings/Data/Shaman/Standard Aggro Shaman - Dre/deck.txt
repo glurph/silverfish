@@ -1,3 +1,6 @@
+// Hearthpwn: http://www.hearthpwn.com/decks/587780-standard-aggro-shaman-dre
+
+
 // - S H A M A N --------------------------------
 // [1] Lightning Bolt (EX1_238)			2x	
 // [1] Rockbiter Weapon (CS2_045)		2x	
