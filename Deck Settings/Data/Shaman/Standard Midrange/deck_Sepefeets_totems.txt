@@ -4,6 +4,7 @@
 // Deck Name: Standard Midrange Totems
 //      Hero: Shaman
 // Deck Type: Midrange (Control)
+// Hearthpwn: http://www.hearthpwn.com/decks/587800-standard-midrange-totems
 
 // Cards
 Lightning Bolt	x1
