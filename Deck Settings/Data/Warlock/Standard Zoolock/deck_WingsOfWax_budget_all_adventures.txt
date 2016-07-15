@@ -4,6 +4,7 @@
 // Deck Name: Zoolock
 //      Hero: Warlock
 // Deck Type: Zoo (Aggro)
+// Hearthpwn: http://www.hearthpwn.com/decks/587817-zoolock-wings-of-wax-budget-all-adv
 
 Forbidden Ritual x 2
 Mortal Coil x 1
