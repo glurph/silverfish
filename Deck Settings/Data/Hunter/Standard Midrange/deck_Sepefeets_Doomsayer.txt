@@ -4,6 +4,7 @@
 // Deck Name: Standard Midrange Hunter (Doomsayer)
 //      Hero: Hunter
 // Deck Type: Midrange (Control)
+// Hearthpwn: http://www.hearthpwn.com/decks/587755-standard-midrange-hunter-doomsayer
 
 // Cards
 Freezing Trap	x1
