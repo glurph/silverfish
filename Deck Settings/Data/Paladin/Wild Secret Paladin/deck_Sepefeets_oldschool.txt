@@ -4,6 +4,7 @@
 // Deck Name: Wild Secret Paladin (oldschool)
 //      Hero: Paladin
 // Deck Type: Midrange (Control)
+// Hearthpwn: http://www.hearthpwn.com/decks/587776-wild-secret-paladin-oldschool
 
 // Cards
 Avenge x2
