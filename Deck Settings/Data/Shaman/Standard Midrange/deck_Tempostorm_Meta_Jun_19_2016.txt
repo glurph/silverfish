@@ -4,6 +4,7 @@
 // Deck Name: Standard Midrange Totems
 //      Hero: Shaman
 // Deck Type: Midrange (Control)
+// Hearthpwn: http://www.hearthpwn.com/decks/587803-standard-midrange-totems-tempostorm-meta-jun-19
 
 // Cards
 Primal Fusion	x1
