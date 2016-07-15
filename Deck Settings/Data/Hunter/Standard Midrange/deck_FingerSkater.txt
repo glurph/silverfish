@@ -4,6 +4,7 @@
 // Deck Name: Standard Midrange Hunter
 //      Hero: Hunter
 // Deck Type: Midrange (Control)
+// Hearthpwn: http://www.hearthpwn.com/decks/580155-midrange-hunter
 
 // Cards
 Fiery Bat	x2
