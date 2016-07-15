@@ -4,6 +4,7 @@
 // Deck Name: Zoolock
 //      Hero: Warlock
 // Deck Type: Zoo (Aggro)
+// Hearthpwn: http://www.hearthpwn.com/decks/587815-zoolock-wings-of-wax
 
 Forbidden Ritual x 2
 Power Overwhelming x 2
@@ -14,7 +15,7 @@ Voidwalker x 2
 Crazed Alchemist x 1
 Dark Peddler x 2
 Dire Wolf Alpha x 2
-Flame Juggler x 2
+Flame Juggler x 1
 Knife Juggler x 2
 Darkshire Councilman x 2
 Imp Gang Boss x 2
