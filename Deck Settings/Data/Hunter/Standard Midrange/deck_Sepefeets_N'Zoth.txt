@@ -4,6 +4,7 @@
 // Deck Name: Standard Midrange Hunter (N'Zoth)
 //      Hero: Hunter
 // Deck Type: Midrange (Control)
+// Hearthpwn: http://www.hearthpwn.com/decks/587757-standard-midrange-hunter-nzoth
 
 // Cards
 Hunter's Mark	x2
